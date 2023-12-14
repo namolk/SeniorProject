@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.10 (2327857 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <relation id="444651" visible="true" version="82" changeset="135325957" timestamp="2023-04-25T04:58:37Z" user="Kri_ttt" uid="13669494">
+  <member type="node" ref="8214007176" role="stop"/>
+  <member type="node" ref="6681609012" role="stop"/>
+  <member type="node" ref="6681609016" role="stop"/>
+  <member type="node" ref="6681609017" role="stop"/>
+  <member type="node" ref="6681609018" role="stop"/>
+  <member type="node" ref="6681609019" role="stop"/>
+  <member type="node" ref="6681609020" role="stop"/>
+  <member type="node" ref="7613336660" role="stop"/>
+  <member type="node" ref="6681609024" role="stop"/>
+  <member type="node" ref="6681609025" role="stop"/>
+  <member type="node" ref="6681609026" role="stop"/>
+  <member type="node" ref="6681609027" role="stop"/>
+  <member type="node" ref="6681609028" role="stop"/>
+  <member type="node" ref="6681609029" role="stop"/>
+  <member type="node" ref="6681609030" role="stop"/>
+  <member type="node" ref="7947412031" role="stop"/>
+  <member type="node" ref="270666810" role="stop"/>
+  <member type="node" ref="270666806" role="stop"/>
+  <member type="node" ref="270666805" role="stop_inactive"/>
+  <member type="node" ref="270666804" role="stop"/>
+  <member type="node" ref="270666802" role="stop"/>
+  <member type="node" ref="270666791" role="stop"/>
+  <member type="node" ref="270666790" role="stop"/>
+  <member type="node" ref="270666787" role="stop"/>
+  <member type="node" ref="1697004538" role="stop"/>
+  <member type="node" ref="270668232" role="stop"/>
+  <member type="node" ref="275515851" role="stop"/>
+  <member type="node" ref="270668230" role="stop"/>
+  <member type="node" ref="275514816" role="stop"/>
+  <member type="node" ref="275514306" role="stop"/>
+  <member type="node" ref="277360712" role="stop"/>
+  <member type="node" ref="277360862" role="stop"/>
+  <member type="node" ref="277360879" role="stop"/>
+  <member type="node" ref="277361532" role="stop"/>
+  <member type="node" ref="1560656072" role="stop"/>
+  <member type="node" ref="1726172762" role="stop"/>
+  <member type="node" ref="1726175401" role="stop"/>
+  <member type="node" ref="1726177803" role="stop"/>
+  <member type="node" ref="1726177804" role="stop"/>
+  <member type="node" ref="4774928037" role="stop"/>
+  <member type="node" ref="6123597367" role="stop"/>
+  <member type="node" ref="6123597368" role="stop"/>
+  <member type="node" ref="6123597369" role="stop"/>
+  <member type="node" ref="6123597370" role="stop"/>
+  <member type="node" ref="6123597371" role="stop"/>
+  <member type="node" ref="6123597372" role="stop"/>
+  <member type="node" ref="6123597373" role="stop"/>
+  <member type="node" ref="6123597374" role="stop"/>
+  <member type="way" ref="791625654" role=""/>
+  <member type="way" ref="884167052" role=""/>
+  <member type="way" ref="815065850" role=""/>
+  <member type="way" ref="852004723" role=""/>
+  <member type="way" ref="377160877" role=""/>
+  <member type="way" ref="157481747" role=""/>
+  <member type="way" ref="157481743" role=""/>
+  <member type="way" ref="1165313179" role=""/>
+  <member type="way" ref="1165313180" role=""/>
+  <member type="way" ref="157481757" role=""/>
+  <member type="way" ref="157481752" role=""/>
+  <member type="way" ref="156261395" role=""/>
+  <member type="way" ref="884165264" role=""/>
+  <member type="way" ref="884165263" role=""/>
+  <member type="way" ref="859223071" role=""/>
+  <member type="way" ref="859223070" role=""/>
+  <member type="way" ref="859223072" role=""/>
+  <tag k="colour" v="#65B724"/>
+  <tag k="from" v="Khu Khot"/>
+  <tag k="name" v="รถไฟฟ้าบีทีเอส สายสุขุมวิท (คูคต → เคหะ)"/>
+  <tag k="name:en" v="BTS Sukhumvit Line (Khu Khot → Kheha)"/>
+  <tag k="name:th" v="รถไฟฟ้าบีทีเอส สายสุขุมวิท (คูคต → เคหะ)"/>
+  <tag k="network" v="BTS"/>
+  <tag k="note" v="I didn't include &quot;Last train route&quot; and &quot;Peak-only route&quot; into this &quot;Main route&quot;."/>
+  <tag k="opening_hours" v="Mo-Su 05:15-23:35"/>
+  <tag k="operator" v="BTSC"/>
+  <tag k="public_transport:version" v="2"/>
+  <tag k="ref" v="BTS Sukhumvit"/>
+  <tag k="route" v="subway"/>
+  <tag k="to" v="Kheha"/>
+  <tag k="type" v="route"/>
+  <tag k="website" v="https://www.bts.co.th/service/timetable.html"/>
+  <tag k="wikidata" v="Q4921598"/>
+  <tag k="wikipedia" v="th:รถไฟฟ้าบีทีเอส สายสุขุมวิท"/>
+ </relation>
+</osm>
